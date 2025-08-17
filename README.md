@@ -130,18 +130,6 @@ This recreates the database and restores all tables + data.
 
 ---
 
-## 📂 Repository Structure
-
-```
-codtech-internship-task4-database-backup-recovery/
-│
-├── backup.sh                  # Script to backup database
-├── restore.sh                 # Script to restore database
-├── library_db_backup.sql      # Sample backup file (optional)
-├── README.md                  # Documentation (this file)
-└── docs/
-    └── process.pdf            # Detailed process documentation with screenshots
-```
 
 ---
 
